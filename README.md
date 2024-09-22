@@ -13,7 +13,7 @@ This program allows interactive users to search for "near misses" in the formula
 1. *Clone the repository*:
    ```bash
      git clone https://github.com/NishanthBandaru/SE-Assignment1
-       cd SE Assignment1
+       cd SE-Assignment1
 2. Launch the Windows OS exe file
    ```bash
     ./dist/SE Assignment1.exe
