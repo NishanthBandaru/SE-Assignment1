@@ -1,5 +1,5 @@
 # Fermat's Last Theorem Near Misses
-# File Name: SE Assignment1.py
+# File Name: SE-Assignment1.py
 # External files: None
 # Programmers: Nishanth Bandaru,Sai Nikhil Mamidala
 # Email : nishanthbandaru@lewisu.edu
