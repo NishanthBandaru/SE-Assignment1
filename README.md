@@ -23,7 +23,7 @@ This program allows interactive users to search for "near misses" in the formula
  Run the Python script:
 
     
-      python SE Assignment1.py. 
+      python SE Assignment1.py
     
 3. *Input values when prompted*:
 - *\(n\)*: The power to apply in the calculation, between 3 and 11.
