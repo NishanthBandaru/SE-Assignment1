@@ -16,14 +16,14 @@ This program allows interactive users to search for "near misses" in the formula
        cd SE-Assignment1
 2. Launch the Windows OS exe file
    ```bash
-    ./dist/SE Assignment1.exe
+    ./dist/SE-Assignment1.exe
 
   or 
   
  Run the Python script:
 
     
-      python SE Assignment1.py
+      python SE-Assignment1.py
     
 3. *Input values when prompted*:
 - *\(n\)*: The power to apply in the calculation, between 3 and 11.
